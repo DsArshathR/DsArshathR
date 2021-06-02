@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohamed Arshath
+- I'm currently learning M.Sc Data Science
+- 🌱 I’m currently living at coimbatore
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me through mail.... mohamedarshathmscds@gmail.com
